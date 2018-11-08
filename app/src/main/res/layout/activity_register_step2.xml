@@ -33,16 +33,15 @@
                 android:layout_height="wrap_content"
                 android:text="Name:"
                 style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:textColor="@color/colorAccent"/>
+                android:textColor="@color/colorPrimary"/>
 
             <TextView
                 android:id="@+id/name_text_view"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:text="Muhammed Shasin P"
                 style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:textColor="@color/colorAccent"/>
+                android:textColor="@color/colorPrimary"/>
 
         </LinearLayout>
 
@@ -57,16 +56,15 @@
                 android:layout_height="wrap_content"
                 android:text="Branch:"
                 style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:textColor="@color/colorAccent"/>
+                android:textColor="@color/colorPrimary"/>
 
             <TextView
                 android:id="@+id/branch_text_view"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="40dp"
-                android:text="CS"
                 style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:textColor="@color/colorAccent"/>
+                android:textColor="@color/colorPrimary"/>
 
         </LinearLayout>
 
@@ -81,16 +79,15 @@
                 android:layout_height="wrap_content"
                 android:text="Batch"
                 style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:textColor="@color/colorAccent"/>
+                android:textColor="@color/colorPrimary"/>
 
             <TextView
                 android:id="@+id/batch_text_view"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="50dp"
-                android:text="2K18"
                 style="@style/Base.TextAppearance.AppCompat.Medium"
-                android:textColor="@color/colorAccent"/>
+                android:textColor="@color/colorPrimary"/>
 
         </LinearLayout>
 
